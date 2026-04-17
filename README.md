@@ -64,4 +64,4 @@ sudo python3 arp_spoofer.py --target <TARGET_IP> --gateway <GATEWAY_IP>
 
 ## 👨‍💻 Author
 
-Mohammed duaij bin zaiman
+Mohammed bin zaiman
